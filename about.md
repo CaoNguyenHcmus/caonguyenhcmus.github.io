@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mình đang làm trong ngành "lẩu nhúng", bạn nào có cùng niềm sở thích và đam mê thì contact giao lưu  với mình nha :)
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[caonguyenhcmus@gmail.com](mailto:caonguyenhcmus@gmail.com)

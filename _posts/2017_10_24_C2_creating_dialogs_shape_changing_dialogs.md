@@ -1,6 +1,8 @@
 ----
 layout: post
-title: Chapter 2: Creating Dialogs (prj: sortdialog)
+title: "Chapter 2: Creating Dialogs (prj: sortdialog)"
+date:   2017-10-24
+categories: Qt
 ----
 
 
